@@ -1,63 +1,44 @@
-\# 📊 \*\*Pull Request\*\* - Análise Exploratória de Dados (AED)
+# 📊 **Pull Request** - Análise Exploratória de Dados (AED)
 
-\## 📄 \*\*Descrição\*\*
+## 📄 **Descrição**
 
-\- Escreva de forma clara e resumida o que este PR deve alterar.
-
-
+Escreva de forma clara e resumida o que este PR deve alterar.
 
 ---
 
+## 🔍 **Escopo da Análise**
 
+### **Com dados da fábrica disponíveis**
+- [ ] Análise da operação;  
+- [ ] Geração de histogramas;  
+- [ ] Geração de boxplots;  
+- [ ] Gráficos temporais;  
+- [ ] Outros gráficos pertinentes.
 
-\## 🔍 Escopo da Análise
-
-\- \[ ] \*\*Dados da fábrica disponíveis\*\*  
-
-&nbsp; - \[ ] Análise da operação  
-
-&nbsp; - \[ ] Geração de histogramas  
-
-&nbsp; - \[ ] Geração de boxplots  
-
-&nbsp; - \[ ] Gráficos temporais  
-
-&nbsp; - \[ ] Outros gráficos pertinentes  
-
-
-
-\- \[ ] \*\*Sem dados da fábrica disponíveis\*\*  
-
-&nbsp; - \[ ] Análise do setor de mercado relacionado ao aplicativo  
-
-&nbsp; - \[ ] Levantamento da demanda pelo serviço prestado  
-
-&nbsp; - \[ ] Estudo sobre informatização/digitalização das informações no setor  
-
-&nbsp; - \[ ] Estimativa do potencial de economia para clientes  
-
-
+### **Sem dados da fábrica disponíveis**
+- [ ] Análise do setor de mercado relacionado ao aplicativo;  
+- [ ] Levantamento da demanda pelo serviço prestado;  
+- [ ] Estudo sobre informatização/digitalização das informações no setor;  
+- [ ] Estimativa do potencial de economia para clientes.
 
 ---
 
+## ✅ **Checklist de Qualidade**
 
-
-\## ✅ \*\*Checklist de Qualidade\*\*
-
-\- \[ ] \*\*Código revisado:\*\* seguir boas práticas e padrões definidos pelo time;
-
-\- \[ ] \*\*Tratamento de exceções:\*\* tratar qualquer possível erro;
-
-\- \[ ] \*\*Validação:\*\* verificar se a entrada e inserção de dados foi feita corretamente ;
-
-\- \[ ] \*\*Segurança:\*\* Nenhum dado sensível exposto
-
-\- \[ ] \*\*Testes realizados:\*\* para validação do código, foram feitos testes;
-
+- [ ] **Código revisado:** segue boas práticas e padrões definidos pelo time;  
+- [ ] **Tratamento de exceções:** tratar possíveis erros;  
+- [ ] **Validação:** verificar se a entrada e inserção de dados foram feitas corretamente;  
+- [ ] **Segurança:** nenhum dado sensível exposto;  
+- [ ] **Testes realizados:** foram feitos testes para validação do código.
 
 ---
 
+## 💡 **Links**
 
-\## 💡 Links
+Adicione aqui os links utilizados para a execução deste projeto, como:
 
-\- Adicione os links utilizados para a execução desse projeto.
+- Dataset analisado;  
+- Notebooks ou dashboards;  
+- Fontes externas de dados;  
+- Repositórios de referência;  
+- Documentação complementar.
